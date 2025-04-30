@@ -13,8 +13,9 @@ Una calculadora simple implementada en JavaScript que permite realizar operacion
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/calculadora-js.git
-cd calculadora-js
+git clone https://github.com/haroldsolocode/copia-calculadora.git
+cd copia-calculadora
+```
 ## Pruebas rápidas
 
 Edita `index.html` o usa consola del navegador:
